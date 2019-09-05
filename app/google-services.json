@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "296672872233",
+    "firebase_url": "https://tralone-c07f7.firebaseio.com",
+    "project_id": "tralone-c07f7",
+    "storage_bucket": "tralone-c07f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296672872233:android:b34e94f4a26d6ca97c1938",
+        "android_client_info": {
+          "package_name": "com.tralone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296672872233-4rj3s53bheh6pdt3dfjoie7v638jghkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgOXB99UBt0178IAOk1ZerOOfn3NTdNSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296672872233-4rj3s53bheh6pdt3dfjoie7v638jghkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
